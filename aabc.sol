@@ -10,13 +10,13 @@ import "./ERC20Detailed.sol";
  * Note they can later distribute these tokens as they wish using `transfer` and other
  * `ERC20` functions.
  */
-contract Asset and Arbitrage Coin is Context, ERC20, ERC20Detailed {
+contract Arbitrage_analysis_beyond_commodity is Context, ERC20, ERC20Detailed {
     uint8 public constant DECIMALS = 6;
     uint256 public constant INITIAL_SUPPLY = 30000000000 * (10 ** uint256(DECIMALS));
     /**
      * @dev Constructor that gives _msgSender() all of existing tokens.
      */
-    constructor () public ERC20Detailed("Asset and Arbitrage Coin", "AABC", 6) {
+    constructor () public ERC20Detailed("Arbitrage_analysis_beyond_commodity", "AABC", 6) {
         _mint(_msgSender(), INITIAL_SUPPLY);
     }
 }
