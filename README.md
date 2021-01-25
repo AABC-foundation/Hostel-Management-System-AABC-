@@ -7,3 +7,4 @@ AABC project
   * **Version 2.0.4:**
     * Add demo GUI for BSC buying
     * Binance-Smart-Chain_NFT token publish"HOA"
+    * Maximum Supply 1,000,000,000
