@@ -5,4 +5,5 @@ AABC project
     * Update stagging server
 
   * **Version 2.0.4:**
-    * Add demo GUI for Kyber buying
+    * Add demo GUI for BSC buying
+    * Binance-Smart-Chain_NFT token publish"HOA"
