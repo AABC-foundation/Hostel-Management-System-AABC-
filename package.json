@@ -1,7 +1,7 @@
 {
-  "name": "AABC-mobility-contracts",
+  "name": "AABC-foundation-contracts",
   "version": "1.0.0",
-  "description": "AABC mobility Smart Contract",
+  "description": "AABC Smart Contract",
   "main": "truffle.js",
   "directories": {
     "test": "test"
